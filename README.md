@@ -85,8 +85,7 @@ Press the below button to  deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/FileStreamBot
-cd FileStreamBot
+git clone https://github.com/Darren2707/filestreambot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
